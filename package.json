@@ -1,0 +1,34 @@
+{
+  "name": "usesnapshot",
+  "version": "0.1.0",
+  "description": "React hook to manage onSnapshot events with Firebase Firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://obelmont@github.com/obelmont/useSnapshot.git"
+  },
+  "keywords": [
+    "firebase",
+    "react",
+    "firestore",
+    "onSnapshot",
+    "hook",
+    "hooks"
+  ],
+  "author": "Oliver Belmont (obelmont@oliverbelmont.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obelmont/useSnapshot/issues"
+  },
+  "homepage": "https://github.com/obelmont/useSnapshot#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.22",
+    "react": "^16.8.6"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
