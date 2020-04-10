@@ -1,5 +1,5 @@
 {
-  "name": "usesnapshot",
+  "name": "firebase-usesnapshot",
   "version": "0.1.0",
   "description": "React hook to manage onSnapshot events with Firebase Firestore",
   "main": "index.js",
