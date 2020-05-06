@@ -5,7 +5,7 @@
 ### ⚡ Installing
 
 Install with Yarn or NPM
-`npm install firebase-onsnapshot` or `yarn add firebase-onsnapshot`
+`npm install firebase-usesnapshot` or `yarn add firebase-usesnapshot`
 
 Import Module
 `import useSnapshot from "firebase-usesnapshot";`
